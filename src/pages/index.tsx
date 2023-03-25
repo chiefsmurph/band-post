@@ -50,7 +50,7 @@ export default function Home() {
           Dr. Dog - Shadow People
           Gilbert O'Sullivan - Alone Again Naturally
           Velvet Underground - I'm Waiting For The Man
-          Velvet Underground - Sunday Morning`.split('\n').map(line => line.trim()).map(line => <li>{line}</li>)}
+          Velvet Underground - Sunday Morning`.split('\n').map(line => line.trim()).map(line => <li key={line}>{line}</li>)}
         </div>
         
 
