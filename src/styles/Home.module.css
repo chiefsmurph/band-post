@@ -7,6 +7,7 @@
   align-items: center;
   min-height: 100vh;
   padding: 1rem;
+  font-size: 1.35rem;
 }
 
 .main > * {
@@ -17,12 +18,17 @@
   /* display: inherit;
   justify-content: inherit; */
   /* align-items: inherit; */
-  font-size: 1.35rem;
   max-width: var(--max-width);
   width: 100%;
   z-index: 2;
 }
 
+.description p {
+  margin-bottom: 1rem;
+}
+
 .setlist {
+
+  font-size: 1.2rem;
   /* margin: 2rem auto 2rem 0; */
 }
