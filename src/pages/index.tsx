@@ -30,6 +30,7 @@ export default function Home() {
           Wilco - You And I
           Wilco - Heavy Metal Drummer
           Neutral Milk Hotel - In The Aeroplane Over The Sea
+          Neutral Milk Hotel - Everything Is
           Mac Demarco - No Other Heart
           Mac Demarco - Another One
           Mac Demarco - Cookin up something good
